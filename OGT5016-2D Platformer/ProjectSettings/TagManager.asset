@@ -3,17 +3,24 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Spike
+  - Hero
+  - Water
+  - Head
+  - Enemy
+  - Ground
+  - Platform
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Hero
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Ground
+  - Spike
+  - Second Ground
   - 
   - 
   - 
@@ -40,4 +47,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1095624677
+    locked: 0
+  - name: Water
+    uniqueID: 4019210311
+    locked: 0
+  - name: Spike
+    uniqueID: 2189161057
+    locked: 0
+  - name: Ground
+    uniqueID: 693512899
     locked: 0

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grey Walker
+  m_Controller: {fileID: 9100000, guid: d3544ec5c2240424f8d8c4c22b926860, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 14b443a778c74ec419e06f2357e7b3b4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0cb19862918942946bdd4533a3ea1563, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ba5ceb1428e0b294e9fd57a52548628b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ca6fdde7ad693ce41a7586db4f834c79, type: 2}
